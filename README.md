@@ -66,6 +66,9 @@ The game is built with a modular structure and employs fundamental C++ programmi
 
 Contributions, bug reports, and feature requests are welcome! Please fork the repository and submit a pull request or open an issue.
 
+## Game preview:
+
+
 ---
 
 Enjoy playing Tetis! 🎮
