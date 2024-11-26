@@ -68,6 +68,9 @@ Contributions, bug reports, and feature requests are welcome! Please fork the re
 
 ## Game preview:
 
+https://github.com/user-attachments/assets/adce6457-9d8a-4392-9440-45b658ae3f52
+
+## This video shows the pausing and playing feature which you can reconize on the right hand side, shows the graphics, shows the score and levels feature and lastly at the end what happens if the blocks reach the top (GAME OVER)
 
 ---
 
