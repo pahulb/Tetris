@@ -1,6 +1,6 @@
-# Tetis
+# Tetris
 
-Tetis is a C++ implementation of the classic Tetris game. With a codebase of 2097 lines, this project utilizes C++ to create a fully playable Tetris game. It requires the use of graphics libraries to render the game, specifically `winbgim.h` and `graphics.h`.
+Tetris is a C++ implementation of the classic Tetris game. With a codebase of 2097 lines, this project utilizes C++ to create a fully playable Tetris game. It requires the use of graphics libraries to render the game, specifically `winbgim.h` and `graphics.h`.
 
 ## Features
 
