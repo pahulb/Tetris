@@ -12,7 +12,7 @@ Tetris is a C++ implementation of the classic Tetris game. With a codebase of 20
 
 To compile and run Tetris, ensure you have the following:
 
-- A C++ compiler (e.g., Code Blocks).
+- A C++ IDE (e.g., Code Blocks).
 - The `winbgim.h` and `graphics.h` libraries for graphics rendering. Download and set them up before building the project.
 
 ## Setup and Installation
