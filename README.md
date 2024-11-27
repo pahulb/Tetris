@@ -19,7 +19,7 @@ To compile and run Tetris, ensure you have the following:
 
 1. Download the winbgim.h and graphics.h files that are located in my repository and copy the code and paste it into the main.cpp part in the software.
 
-2. Ensure `winbgim.h` and `graphics.h` are in the appropriate directories for your compiler. For example, with Codeblocks:
+2. Ensure `winbgim.h` and `graphics.h` are in the appropriate directories for your IDE. For example, with Codeblocks:
    - Place `winbgim.h` in the `include` directory.
    - Place `graphics.h` in the `include` directory.
    - insert the files that you downloaded by clicking projects and adding the files.
