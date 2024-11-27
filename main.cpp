@@ -1948,7 +1948,7 @@ class ALL{
     }
 };
 int main(){
-    initwindow(600,620,"Tetris Game - www.youtube.com/projectcoding",300,10,false,true);
+    initwindow(600,620,"Tetris Game",300,10,false,true);
     getup();
 	mat=new MATRIX();
     int y=0-ssize*3,r,x=mat->X[3];
