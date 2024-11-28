@@ -23,7 +23,7 @@ To compile and run Tetris, ensure you have the following:
   
   - Place `graphics.h` in the `include` directory.
    - insert the files that you downloaded by clicking projects and adding the files.
-   - By adding these files the source code will allow the software to identify where graphics.h and winbgim.h is located and what it does.
+   - By adding these files the source code will allow the software to identify where graphics.h is located and what it does.
 
 5. Compile and Run the code:
    - Compile the program by clicking on the yellow gear on the top of the program.
